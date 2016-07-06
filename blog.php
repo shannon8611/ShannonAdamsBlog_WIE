@@ -1,0 +1,1 @@
+[wowslider id="1"]
